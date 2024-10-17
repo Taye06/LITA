@@ -7,7 +7,7 @@
 ### Data Sources:
 
 ### Tools Used:
-- Microsoft Excel [Download Here].(https://www.microsoft.com)
+- Microsoft Excel [Download Here](https://www.microsoft.com)
 1. For Data Cleaning
 2. For Data Analysis
 3. For Data Visualization
