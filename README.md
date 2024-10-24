@@ -1,7 +1,17 @@
 # LITA_CLASS_DOCUMENTATION
 
 ### Project Title:
+[Project Overview](#project-overview)
 
+Data Sources
+
+Tools Used
+
+Data cleaning and Preparations
+
+Exploratory Data Analysis
+
+Data Analysis
 ### Project Overview:
 
 ### Data Sources:
